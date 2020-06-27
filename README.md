@@ -1,8 +1,8 @@
 HackerRank/Project Euler Solutions  
 
-A collection of Mayank's program code to solve over Project Euler math problems.
+A collection of Mayank's program code to solve over HackerRank and  Project Euler math problems.
 
-Every solved problem has a program written in C+++,c.c#,Java and usually Python. Some solutions also have Mathematica and Haskell programs. Some solution programs include a detailed mathematical explanation/proof in the comments to justify the code's logic.
+Every solved problem has a program written in C+++,c.c#,Java and usually Python. 
 
 Copyright © 2020 Project Mayank Rawat. All rights reserved. No warranty.
 
